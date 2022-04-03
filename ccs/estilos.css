@@ -1,0 +1,48 @@
+body{
+    background: rgb(23, 28, 68);
+    color: rgb(228, 110, 13);
+}
+
+header{
+   font-size: 2cm;
+}
+.navup{
+    text-decoration: none;
+    margin: 4px;
+    margin-top: 10px;
+    color: lightgray;
+    border: 1px solid black;
+    padding: 3px;
+    margin-bottom: 40px;
+}
+nav{
+text-align: center;
+color: rgb(4, 24, 61);
+font-style: italic;
+font-size: 0.5cm;
+}
+h1{
+    text-align: center;
+color: rgb(4, 24, 61);
+font-style: italic;
+font-size: 2cm;
+}
+
+#entrenando{
+    width: 40%;
+    align-self: center;
+}
+footer{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 5mm;
+    font-weight: 500;
+
+}
+
+.izq{
+    text-align: left;
+}
+.der{
+    text-align: right;
+}
