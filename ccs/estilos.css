@@ -1,5 +1,5 @@
 body{
-    background: rgb(117, 122, 160);
+    background: rgb(21, 30, 104);
     color: rgb(173, 92, 25);
 }
 
@@ -8,16 +8,18 @@ header{
 }
 .navup{
     text-decoration: none;
-    margin: 4px;
+    background-color: rgb(7, 7, 7);
+    margin: 1%;
     margin-top: 10px;
-    color: lightgray;
-    border: 1px solid black;
-    padding: 3px;
+    margin-bottom: 2%;
+    color: rgb(245, 143, 10);
+    border: 1px solid rgb(250, 126, 55);
+    padding: 5px;
     margin-bottom: 40px;
 }
 nav{
 text-align: center;
-color: rgb(4, 24, 61);
+color: rgb(14, 66, 163);
 font-style: italic;
 font-size: 0.5cm;
 }
