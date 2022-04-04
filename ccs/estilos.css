@@ -19,22 +19,22 @@ div{
     text-decoration: none;
     background-color: rgb(7, 7, 7);
     margin: 1%;
-    margin-top: 10px;
-
-
-    
-    margin-bottom: 2%;
+    margin-top: 1%;
+    margin-bottom: 10%;
     color: rgb(245, 143, 10);
     border: 1px solid rgb(250, 126, 55);
-    padding: 5px;
-    margin-bottom: 40px;
+    padding: 0.5%;
+    
 }
+
 nav{
 text-align: center;
 color: rgb(14, 66, 163);
 font-style: italic;
 font-size: 0.5cm;
 }
+
+
 h1{
     text-align: center;
 color: rgb(4, 24, 61);
